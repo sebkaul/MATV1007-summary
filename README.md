@@ -2,7 +2,7 @@
 
 A small Vite + React app that auto-discovers every `.jsx` file in `src/` and serves them as standalone, navigable pages. Built to browse the MATV1007 (microbiology) topic overviews:
 
-1. Introduction
+1. Introduksjon
 2. Cellebiologi
 3. Bakteriell Vekst
 4. Virus
