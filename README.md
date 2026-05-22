@@ -1,13 +1,13 @@
-# JSX Viewer — IMAK2004
+# JSX Viewer — MATV1007
 
-A small Vite + React app that auto-discovers every `.jsx` file in `src/` and serves them as standalone, navigable pages. Built to browse the IMAK2004 (analytical chemistry) topic overviews:
+A small Vite + React app that auto-discovers every `.jsx` file in `src/` and serves them as standalone, navigable pages. Built to browse the MATV1007 (microbiology) topic overviews:
 
-1. Statistikk og feil
-2. Kromatografi
-3. Syre/base og pH
-4. Gravimetri
-5. Elektrokjemi
-6. Spektroskopiske metoder
+1. Introduction
+2. Cellebiologi
+3. Bakteriell Vekst
+4. Virus
+5. Taksonomi & Kretsløp
+6. Bioteknologi
 
 The index page lists every detected file; each topic loads lazily when you click it.
 
