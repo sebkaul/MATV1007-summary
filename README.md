@@ -8,6 +8,9 @@ A small Vite + React app that auto-discovers every `.jsx` file in `src/` and ser
 4. Virus
 5. Taksonomi & Kretsløp
 6. Bioteknologi
+   1. Verktøy & teknikker
+   2. Analyseteknikker
+   3. Mutasjoner, genregulering & etikk
 
 The index page lists every detected file; each topic loads lazily when you click it.
 
